@@ -3,10 +3,14 @@
 #print string
 print("Hello World") #doublecode
 print('Hello World') #singlecode
-print("")#line break
+
+print("") #linebreak
+
 #multiplelines
 print("""This string runs
 multiple lines""")
+
+print("") #linebreak
 
 #addstring
 print("This string is "+"awesome!")

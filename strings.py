@@ -3,7 +3,7 @@
 #print string
 print("Hello World") #doublecode
 print('Hello World') #singlecode
-
+print("")#line break
 #multiplelines
 print("""This string runs
 multiple lines""")
